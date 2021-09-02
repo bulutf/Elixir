@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import commands as c
 
-TOKEN = "1669288994:AAGkYYdY5bwRC441oBLdSgJRx59M-m3hXaU"
+TOKEN = "INSERT YOUR TOKEN HERE"
 
 print("Bot is working")
 
